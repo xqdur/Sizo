@@ -1,2 +1,2 @@
 # Sizo
-The ultimate network site from students UMPK college Russia. We work at this project without teacher.
+The ultimate website from students UMPK college Russia. We work at this project without teacher.
